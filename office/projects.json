@@ -16,6 +16,14 @@
       "area": "신규영업 분석",
       "color": "#ffb74d",
       "description": "롯데렌터카 신규영업 업체 분석 (영업 브리프)"
+    },
+    {
+      "name": "플레이스 마케팅",
+      "repo": "j2013dh-bit/place-marketing",
+      "folder": "place-marketing",
+      "area": "플레이스 마케팅",
+      "color": "#81c784",
+      "description": "장기전문지점 네이버플레이스 바이럴 (블로그·인스타 데일리 콘텐츠)"
     }
   ]
 }
