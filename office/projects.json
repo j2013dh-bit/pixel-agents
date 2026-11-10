@@ -1,0 +1,21 @@
+{
+  "_comment": "자동화 오피스의 프로젝트 목록. 프로젝트를 추가하면 setup-office.mjs를 다시 실행한다. name = pixel-agents Directory 이름(에이전트 라벨), area = 사무실 안의 방 이름.",
+  "projects": [
+    {
+      "name": "모니터링",
+      "repo": "j2013dh-bit/monitor",
+      "folder": "monitor",
+      "area": "모니터링",
+      "color": "#4fc3f7",
+      "description": "매니저별 온라인 채널 데일리 체킹"
+    },
+    {
+      "name": "신규영업 분석",
+      "repo": "j2013dh-bit/company-analysis",
+      "folder": "company-analysis",
+      "area": "신규영업 분석",
+      "color": "#ffb74d",
+      "description": "롯데렌터카 신규영업 업체 분석 (영업 브리프)"
+    }
+  ]
+}
